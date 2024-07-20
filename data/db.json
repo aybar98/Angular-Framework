@@ -6,7 +6,7 @@
       "roles": [
         "USER"
       ],
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTWFyb3VhbmUiLCJsYXN0bmFtZSI6IkJvdWNodGFvdWkiLCJlbWFpbCI6Im1hcm9AZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.RH41QqjSxd-jdOLnnmd-Hdqt07bLZZ6ecjE9ahAZ_90"
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNzI5OTM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODAvdXNlcnMiLCJuYmYiOjE1MTYyMzkwMjIsImZpcnN0bmFtZSI6Ik1vaGFtZWQiLCJsYXN0bmFtZSI6IllPVVNTRkkiLCJlbWFpbCI6Im1lZEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.v3_oDIiNEqOzWNMgeEIJJO91Nw16WRJQPNGpJa604wE"
     },
     {
       "id": "user2",

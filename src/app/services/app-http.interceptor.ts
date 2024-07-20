@@ -21,8 +21,9 @@ export class AppHttpInterceptor implements HttpInterceptor {
       status :"LOADING"
     })*/
     this.loadingService.showLoadingSpinner();
+    const token = this.appState.authState.token;
     let req = request.clone({
-      headers : request.headers.set("Authorization","Bearer JWT")
+      headers : request.headers.set("Authorization", `Bearer ${token}`)
     });
     return next.handle(req).pipe(
       finalize(()=>{

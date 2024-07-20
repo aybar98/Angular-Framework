@@ -7,7 +7,7 @@ import {Product} from "../model/product.model";
   providedIn: 'root'
 })
 export class ProductService {
-  private host : string ="http://localhost:8089";
+  private host : string ="http://localhost:8080";
   constructor(private http: HttpClient) { }
 
   public searchProducts(keyword :string="",page : number=1, size:number=4){

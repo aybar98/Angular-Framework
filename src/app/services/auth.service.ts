@@ -13,7 +13,7 @@ export class AuthService {
 
   async login(username : string, password : string){
 
-    let user:any= await firstValueFrom(this.http.get("http://localhost:8089/users/"+username));
+    let user:any= await firstValueFrom(this.http.get(`http://localhost:8080/users/${username}`));
     //console.log(password);
     //console.log(user.password);
     //console.log(atob(user.password));
